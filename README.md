@@ -1,5 +1,5 @@
-Experienced individual with a demonstrated history of working in the information technology and services industry. Skilled in C/C++ Programming, Python, Microsoft Office, Management, Public Speaking, and Writing.
+Experienced individual with a demonstrated history of working in product-based software and technology industry.
 
-Currently pursuing a Master of Science - MS focused in Computer Science from The University of Texas at Dallas.
+Pursuing a Master of Science - MS focused in Computer Science from The University of Texas at Dallas with specialization in Intelligent Systems. 
 
-Interested to work in the fields ranging from but not limited to Machine Learning, Artificial Intelligence, Embedded Software Development, Internet of Things and related technologies in the Software Industry.
+Looking forward to utilize my skills in the fields ranging from but not limited to Machine Learning, Artificial Intelligence, Embedded Software Development, Internet of Things and related technologies through advanced research and development in the Software Industry.
