@@ -1,5 +1,3 @@
-Experienced individual with a demonstrated history of working in product-based software and technology industry.
+A highly skilled and accomplished professional with a proven track record of success in the product-based software and technology industry, I am now seeking to further advance my expertise through a Master of Science in Computer Science from The University of Texas at Dallas with a focus on Intelligent Systems.
 
-Pursuing a Master of Science - MS focused in Computer Science from The University of Texas at Dallas with specialization in Intelligent Systems. 
-
-Looking forward to utilize my skills in the fields ranging from but not limited to Machine Learning, Artificial Intelligence, Embedded Software Development, Internet of Things and related technologies through advanced research and development in the Software Industry.
+With a deep understanding of cutting-edge technologies including Machine Learning, Artificial Intelligence, Embedded Software Development, and the Internet of Things, I am eager to leverage my skills and experience to drive impactful research and development initiatives in the software industry. By leveraging my technical knowledge and ability to collaborate effectively with cross-functional teams, I am confident in my ability to make a meaningful contribution to the growth and success of any organization.
